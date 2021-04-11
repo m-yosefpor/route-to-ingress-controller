@@ -1,0 +1,3 @@
+domain: route-to-ingress.io
+repo: github.com/m-yosefpor/route-to-ingress-controller
+version: "2"
